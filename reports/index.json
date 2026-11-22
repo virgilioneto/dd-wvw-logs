@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.25.0"
+  },
+  "entries": [
+    {
+      "id": "20261121-203123-juvr",
+      "title": "Aksunamu Guardian",
+      "commanders": [
+        "Aksunamu Guardian"
+      ],
+      "guild": {
+        "id": "3118BA8D-5B4F-E611-80D4-E4115BEBA648",
+        "name": "Dragons Of Draezor",
+        "tag": "DD"
+      },
+      "dateStart": "2026-11-21T23:31:23.000Z",
+      "dateEnd": "2026-11-22T01:03:21.175Z",
+      "dateLabel": "21/11/2026, 20:31:23 - 21/11/2026, 22:03:21",
+      "url": "https://virgilioneto.github.io/dd-wvw-logs/?report=20261121-203123-juvr",
+      "publishedBy": "virgilioneto",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 33
+      }
+    }
+  ]
+}
