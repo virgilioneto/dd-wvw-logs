@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261123-212702-98dp",
+      "title": "Aegis Ambulare",
+      "commanders": [
+        "Aegis Ambulare"
+      ],
+      "guild": {
+        "id": "3118BA8D-5B4F-E611-80D4-E4115BEBA648",
+        "name": "Dragons Of Draezor",
+        "tag": "DD"
+      },
+      "dateStart": "2026-11-24T00:27:02.000Z",
+      "dateEnd": "2026-11-24T01:02:59.316Z",
+      "dateLabel": "23/11/2026, 21:27:02 - 23/11/2026, 22:02:59",
+      "url": "https://virgilioneto.github.io/dd-wvw-logs/?report=20261123-212702-98dp",
+      "publishedBy": "virgilioneto",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 3,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20261121-203123-juvr",
       "title": "Aksunamu Guardian",
       "commanders": [
